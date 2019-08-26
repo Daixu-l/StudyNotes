@@ -15,7 +15,6 @@ public class 两数之和_1 {
 
     因为 nums[0] + nums[1] = 2 + 7 = 9
     所以返回 [0, 1]
-
      */
 
     public static void main(String[] args) {

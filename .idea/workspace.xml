@@ -82,10 +82,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="816" />
-    <option name="y" value="80" />
-    <option name="width" value="980" />
-    <option name="height" value="1053" />
+    <option name="x" value="815" />
+    <option name="y" value="79" />
+    <option name="width" value="981" />
+    <option name="height" value="1054" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -150,10 +150,10 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -167,8 +167,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ip地址无效化_1108">
+  <component name="RunManager" selected="Application.两数之和_1">
     <configuration name="Ip地址无效化_1108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="D:\jdk1.8.0_191\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="subject.Ip地址无效化_1108" />
       <module name="study" />
       <extension name="coverage">
@@ -210,11 +212,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Ip地址无效化_1108" />
+      <item itemvalue="Application.两数之和_1" />
+      <item itemvalue="Application.宝石与石头_771" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.两数之和_1" />
         <item itemvalue="Application.Ip地址无效化_1108" />
         <item itemvalue="Application.宝石与石头_771" />
-        <item itemvalue="Application.两数之和_1" />
       </list>
     </recent_temporary>
   </component>
